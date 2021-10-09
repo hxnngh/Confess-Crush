@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Chào Linh :Đ",
-    introTitle: 'Hà Diệu Linh ơi:3',
+    titleWeb: "tên web",
+    introTitle: 'tên cr/ny',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà <3 . Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, anh qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://facebook.com/hroxisen'
+    messLink: 'link fb'
 }
